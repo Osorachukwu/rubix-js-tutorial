@@ -6,3 +6,7 @@ git push -u origin master
 
 git clone
 git pull 
+
+git branch (check the branches)
+git branch <branchName>
+git checkout <nameOfBranch>
